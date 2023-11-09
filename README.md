@@ -1,4 +1,4 @@
-# ROI_Focused_MarketingBudgetAllocation-Linear_Programming_Analysis
+# ROI_Focused_Marketing_Budget_Allocation-Linear_Programming_Analysis
 ## Project Overview
 This project aims to effectively allocate the marketing budget across various channels, a crucial determinant of the return on marketing investment. The focus is on formulating a strategy that maximizes Return on Investment (ROI) through optimal allocation across different media channels.
 
